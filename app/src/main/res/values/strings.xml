@@ -1,0 +1,17 @@
+
+<resources>
+    <string name="app_name">IngeQuiz</string>
+    <string name="ingequiz_logo">IngeQuiz Logo</string>
+    <string name="ingequiz_text">Inicia el Quiz, pon aprueba tus conocimientos</string>
+    <string name="iniciar">Iniciar!</string>
+    <string name="buen_tiempo">Muy buen tiempo</string>
+    <string name="exit_app">Salir de la app</string>
+    <string name="game_over">Perdiste!</string>
+    <string name="selecciondepregunta">Por favor selecciona una pregunta.</string>
+    <string name="enviar">Enviar</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="compartir">Compartir</string>
+    <string name="home">Inicio</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="puntaje">Puntaje:</string>
+</resources>
